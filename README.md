@@ -1,4 +1,4 @@
-# nodejs-CRUD is the sample CRUD project in node.js with MongoDB
+# NodeJS-CRUD is the sample CRUD project in node.js with MongoDB
 
 ## Project Run Commands
 
